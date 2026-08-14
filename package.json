@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@gathertown/webhook-object-sdk": "^0.2.0",
+    "dotenv": "^17.4.2"
+  }
+}
